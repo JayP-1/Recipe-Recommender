@@ -1,0 +1,201 @@
+id,name,diet_type,cook_time_minutes,ingredients,instructions_link
+1,Mushroom Masala Variant 1,vegan,56,oil|curd|carrot|spinach|paneer|cheese|potato|salt|turmeric,https://recipe.example.com/Mushroom_Masala_Variant_1
+2,Mutton Curry Variant 2,vegan,14,mutton|oil|spinach|paneer|capsicum|salt|turmeric|mustard seeds,https://recipe.example.com/Mutton_Curry_Variant_2
+3,Bhindi Fry Variant 3,non-veg,33,oil|cauliflower|egg|spinach|chicken|salt|turmeric,https://recipe.example.com/Bhindi_Fry_Variant_3
+4,Curd Rice Variant 4,non-veg,46,oil|curd|egg|paneer|salt|turmeric,https://recipe.example.com/Curd_Rice_Variant_4
+5,Poha Variant 5,veg,27,mutton|oil|peas|curd|paneer|salt|turmeric,https://recipe.example.com/Poha_Variant_5
+6,Dahi Vada Variant 6,veg,13,oil|peas|egg|paneer|cheese|potato|chicken|salt|turmeric,https://recipe.example.com/Dahi_Vada_Variant_6
+7,Aloo Jeera Variant 7,veg,45,oil|potato|chicken|salt|turmeric|mustard seeds,https://recipe.example.com/Aloo_Jeera_Variant_7
+8,Chicken Curry Variant 8,vegan,18,oil|peas|curd|egg|spinach|potato|salt|turmeric,https://recipe.example.com/Chicken_Curry_Variant_8
+9,Curd Rice Variant 9,non-veg,55,oil|peas|carrot|potato|salt|turmeric,https://recipe.example.com/Curd_Rice_Variant_9
+10,Sambar Variant 10,vegan,26,oil|cauliflower|carrot|peas|spinach|cheese|salt|turmeric|mustard seeds,https://recipe.example.com/Sambar_Variant_10
+11,Besan Cheela Variant 11,veg,22,oil|cheese|capsicum|salt|turmeric|mustard seeds,https://recipe.example.com/Besan_Cheela_Variant_11
+12,Vada Variant 12,non-veg,56,oil|peas|paneer|salt|turmeric|mustard seeds,https://recipe.example.com/Vada_Variant_12
+13,Chole Bhature Variant 13,vegan,28,oil|carrot|curd|capsicum|potato|salt|turmeric,https://recipe.example.com/Chole_Bhature_Variant_13
+14,Aloo Jeera Variant 14,non-veg,32,oil|peas|spinach|capsicum|salt|turmeric,https://recipe.example.com/Aloo_Jeera_Variant_14
+15,Egg Bhurji Variant 15,non-veg,16,oil|peas|spinach|capsicum|salt|turmeric,https://recipe.example.com/Egg_Bhurji_Variant_15
+16,Veg Biryani Variant 16,veg,40,mutton|oil|egg|paneer|salt|turmeric|mustard seeds,https://recipe.example.com/Veg_Biryani_Variant_16
+17,Lemon Rice Variant 17,non-veg,58,oil|peas|curd|paneer|cheese|potato|salt|turmeric,https://recipe.example.com/Lemon_Rice_Variant_17
+18,Mix Veg Curry Variant 18,veg,45,mutton|oil|peas|curd|carrot|spinach|capsicum|salt|turmeric,https://recipe.example.com/Mix_Veg_Curry_Variant_18
+19,Idli Variant 19,veg,19,oil|coconut|egg|cheese|salt|turmeric|mustard seeds,https://recipe.example.com/Idli_Variant_19
+20,Aloo Jeera Variant 20,non-veg,38,oil|peas|cauliflower|carrot|potato|salt|turmeric,https://recipe.example.com/Aloo_Jeera_Variant_20
+21,Veg Biryani Variant 21,veg,40,oil|curd|paneer|chicken|salt|turmeric,https://recipe.example.com/Veg_Biryani_Variant_21
+22,Tomato Soup Variant 22,non-veg,12,oil|peas|egg|spinach|cheese|chicken|salt|turmeric,https://recipe.example.com/Tomato_Soup_Variant_22
+23,Sev Puri Variant 23,non-veg,10,oil|coconut|spinach|paneer|potato|salt|turmeric,https://recipe.example.com/Sev_Puri_Variant_23
+24,Rajma Masala Variant 24,vegan,31,oil|curd|egg|spinach|cheese|potato|salt|turmeric,https://recipe.example.com/Rajma_Masala_Variant_24
+25,Bhel Puri Variant 25,non-veg,41,mutton|oil|cauliflower|coconut|paneer|salt|turmeric|mustard seeds,https://recipe.example.com/Bhel_Puri_Variant_25
+26,Chutney Sandwich Variant 26,vegan,34,oil|peas|coconut|carrot|curd|potato|chicken|salt|turmeric,https://recipe.example.com/Chutney_Sandwich_Variant_26
+27,Aloo Jeera Variant 27,veg,31,oil|cauliflower|spinach|coconut|turmeric|salt,https://recipe.example.com/Aloo_Jeera_Variant_27
+28,Idli Variant 28,veg,23,oil|curd|egg|potato|capsicum|chicken|salt|turmeric|mustard seeds,https://recipe.example.com/Idli_Variant_28
+29,Sambar Variant 29,veg,37,oil|cauliflower|peas|spinach|chicken|salt|turmeric,https://recipe.example.com/Sambar_Variant_29
+30,Chole Bhature Variant 30,veg,26,mutton|oil|peas|curd|egg|chicken|salt|turmeric,https://recipe.example.com/Chole_Bhature_Variant_30
+31,Cheese Sandwich Variant 31,veg,13,mutton|oil|peas|carrot|potato|coconut|turmeric|salt,https://recipe.example.com/Cheese_Sandwich_Variant_31
+32,Veg Pulao Variant 32,veg,28,oil|cauliflower|curd|chicken|salt|turmeric,https://recipe.example.com/Veg_Pulao_Variant_32
+33,Vegetable Sandwich Variant 33,non-veg,24,oil|cauliflower|potato|chicken|salt|turmeric,https://recipe.example.com/Vegetable_Sandwich_Variant_33
+34,Chutney Sandwich Variant 34,veg,34,mutton|oil|peas|carrot|cauliflower|curd|capsicum|salt|turmeric,https://recipe.example.com/Chutney_Sandwich_Variant_34
+35,Chicken Curry Variant 35,non-veg,27,oil|coconut|carrot|paneer|cheese|capsicum|salt|turmeric|mustard seeds,https://recipe.example.com/Chicken_Curry_Variant_35
+36,Chicken Biryani Variant 36,vegan,12,mutton|oil|cauliflower|spinach|cheese|capsicum|salt|turmeric,https://recipe.example.com/Chicken_Biryani_Variant_36
+37,Egg Curry Variant 37,veg,11,oil|cauliflower|carrot|spinach|paneer|cheese|salt|turmeric,https://recipe.example.com/Egg_Curry_Variant_37
+38,Methi Thepla Variant 38,veg,57,mutton|oil|cauliflower|carrot|coconut|spinach|potato|salt|turmeric,https://recipe.example.com/Methi_Thepla_Variant_38
+39,Moong Dal Halwa Variant 39,vegan,13,mutton|oil|cauliflower|curd|potato|coconut|turmeric|salt,https://recipe.example.com/Moong_Dal_Halwa_Variant_39
+40,Bhel Puri Variant 40,non-veg,23,mutton|oil|carrot|spinach|paneer|cheese|chicken|salt|turmeric,https://recipe.example.com/Bhel_Puri_Variant_40
+41,Vegetable Sandwich Variant 41,non-veg,16,oil|carrot|coconut|paneer|chicken|salt|turmeric|mustard seeds,https://recipe.example.com/Vegetable_Sandwich_Variant_41
+42,Veg Pulao Variant 42,non-veg,45,mutton|oil|peas|carrot|salt|turmeric|mustard seeds,https://recipe.example.com/Veg_Pulao_Variant_42
+43,Paneer Butter Masala Variant 43,vegan,13,oil|cauliflower|potato|salt|turmeric|mustard seeds,https://recipe.example.com/Paneer_Butter_Masala_Variant_43
+44,Bhel Puri Variant 44,non-veg,37,oil|peas|curd|cheese|capsicum|potato|salt|turmeric,https://recipe.example.com/Bhel_Puri_Variant_44
+45,Masala Dosa Variant 45,non-veg,35,oil|curd|egg|cheese|salt|turmeric,https://recipe.example.com/Masala_Dosa_Variant_45
+46,Besan Cheela Variant 46,non-veg,30,oil|paneer|cheese|potato|salt|turmeric,https://recipe.example.com/Besan_Cheela_Variant_46
+47,Gobhi Paratha Variant 47,non-veg,57,oil|cauliflower|spinach|paneer|cheese|capsicum|coconut|turmeric|salt,https://recipe.example.com/Gobhi_Paratha_Variant_47
+48,Vada Variant 48,veg,11,mutton|oil|peas|curd|coconut|cheese|chicken|salt|turmeric,https://recipe.example.com/Vada_Variant_48
+49,Palak Paneer Variant 49,veg,18,oil|cauliflower|carrot|peas|egg|curd|salt|turmeric,https://recipe.example.com/Palak_Paneer_Variant_49
+50,Moong Dal Halwa Variant 50,veg,10,oil|carrot|egg|cheese|potato|salt|turmeric,https://recipe.example.com/Moong_Dal_Halwa_Variant_50
+51,Poha Variant 51,vegan,51,oil|peas|spinach|capsicum|salt|turmeric|mustard seeds,https://recipe.example.com/Poha_Variant_51
+52,Sheera Variant 52,vegan,12,oil|peas|curd|spinach|egg|potato|coconut|turmeric|salt,https://recipe.example.com/Sheera_Variant_52
+53,Paneer Butter Masala Variant 53,veg,21,oil|coconut|capsicum|potato|chicken|salt|turmeric,https://recipe.example.com/Paneer_Butter_Masala_Variant_53
+54,Cheese Sandwich Variant 54,vegan,31,oil|peas|curd|spinach|paneer|potato|salt|turmeric|mustard seeds,https://recipe.example.com/Cheese_Sandwich_Variant_54
+55,Mutton Curry Variant 55,veg,21,oil|peas|carrot|coconut|egg|salt|turmeric,https://recipe.example.com/Mutton_Curry_Variant_55
+56,Vegetable Sandwich Variant 56,vegan,42,oil|carrot|cheese|potato|salt|turmeric,https://recipe.example.com/Vegetable_Sandwich_Variant_56
+57,Sooji Halwa Variant 57,vegan,59,mutton|oil|egg|paneer|salt|turmeric,https://recipe.example.com/Sooji_Halwa_Variant_57
+58,Paneer Butter Masala Variant 58,veg,42,oil|peas|carrot|paneer|chicken|salt|turmeric,https://recipe.example.com/Paneer_Butter_Masala_Variant_58
+59,Sambar Variant 59,non-veg,40,mutton|oil|egg|paneer|capsicum|potato|salt|turmeric,https://recipe.example.com/Sambar_Variant_59
+60,Tomato Soup Variant 60,vegan,46,oil|carrot|cheese|potato|salt|turmeric|mustard seeds,https://recipe.example.com/Tomato_Soup_Variant_60
+61,Egg Biryani Variant 61,non-veg,34,oil|spinach|paneer|capsicum|chicken|salt|turmeric,https://recipe.example.com/Egg_Biryani_Variant_61
+62,Rajma Masala Variant 62,non-veg,58,mutton|oil|peas|curd|carrot|salt|turmeric|mustard seeds,https://recipe.example.com/Rajma_Masala_Variant_62
+63,Stuffed Capsicum Variant 63,veg,45,oil|spinach|paneer|cheese|capsicum|mustard seeds|coconut|turmeric|salt,https://recipe.example.com/Stuffed_Capsicum_Variant_63
+64,Lemon Rice Variant 64,non-veg,49,oil|cauliflower|curd|peas|coconut|turmeric|salt,https://recipe.example.com/Lemon_Rice_Variant_64
+65,Paneer Butter Masala Variant 65,non-veg,34,oil|peas|egg|paneer|cheese|capsicum|chicken|salt|turmeric,https://recipe.example.com/Paneer_Butter_Masala_Variant_65
+66,Poha Variant 66,non-veg,32,oil|peas|curd|cauliflower|paneer|potato|capsicum|salt|turmeric,https://recipe.example.com/Poha_Variant_66
+67,Aloo Paratha Variant 67,non-veg,23,mutton|oil|carrot|spinach|egg|salt|turmeric|mustard seeds,https://recipe.example.com/Aloo_Paratha_Variant_67
+68,Sheera Variant 68,non-veg,17,mutton|oil|peas|egg|paneer|potato|salt|turmeric|mustard seeds,https://recipe.example.com/Sheera_Variant_68
+69,Chana Chaat Variant 69,vegan,31,oil|curd|capsicum|chicken|mustard seeds|coconut|turmeric|salt,https://recipe.example.com/Chana_Chaat_Variant_69
+70,Veg Biryani Variant 70,veg,22,oil|carrot|coconut|paneer|potato|salt|turmeric,https://recipe.example.com/Veg_Biryani_Variant_70
+71,Mutton Curry Variant 71,non-veg,16,oil|peas|curd|spinach|cheese|potato|capsicum|salt|turmeric,https://recipe.example.com/Mutton_Curry_Variant_71
+72,Mutton Curry Variant 72,non-veg,22,mutton|oil|curd|spinach|salt|turmeric|mustard seeds,https://recipe.example.com/Mutton_Curry_Variant_72
+73,Chana Chaat Variant 73,non-veg,45,mutton|oil|curd|chicken|salt|turmeric,https://recipe.example.com/Chana_Chaat_Variant_73
+74,Sheera Variant 74,vegan,20,mutton|oil|paneer|salt|turmeric|mustard seeds,https://recipe.example.com/Sheera_Variant_74
+75,Dal Tadka Variant 75,vegan,51,oil|peas|curd|egg|cheese|capsicum|potato|salt|turmeric,https://recipe.example.com/Dal_Tadka_Variant_75
+76,Pav Bhaji Variant 76,vegan,10,mutton|oil|carrot|paneer|cheese|capsicum|salt|turmeric|mustard seeds,https://recipe.example.com/Pav_Bhaji_Variant_76
+77,Chole Bhature Variant 77,vegan,48,oil|carrot|egg|capsicum|salt|turmeric|mustard seeds,https://recipe.example.com/Chole_Bhature_Variant_77
+78,Veg Biryani Variant 78,vegan,60,oil|carrot|egg|paneer|chicken|salt|turmeric,https://recipe.example.com/Veg_Biryani_Variant_78
+79,Upma Variant 79,non-veg,51,oil|carrot|curd|egg|chicken|salt|turmeric,https://recipe.example.com/Upma_Variant_79
+80,Rajma Masala Variant 80,non-veg,56,oil|peas|curd|potato|chicken|salt|turmeric,https://recipe.example.com/Rajma_Masala_Variant_80
+81,Dal Tadka Variant 81,veg,59,oil|peas|curd|egg|potato|chicken|salt|turmeric,https://recipe.example.com/Dal_Tadka_Variant_81
+82,Tomato Soup Variant 82,non-veg,40,oil|cauliflower|curd|carrot|salt|turmeric,https://recipe.example.com/Tomato_Soup_Variant_82
+83,Egg Curry Variant 83,veg,27,oil|peas|egg|coconut|turmeric|salt,https://recipe.example.com/Egg_Curry_Variant_83
+84,Mutton Curry Variant 84,veg,36,oil|peas|carrot|paneer|capsicum|chicken|salt|turmeric,https://recipe.example.com/Mutton_Curry_Variant_84
+85,Bhel Puri Variant 85,veg,15,oil|cauliflower|peas|spinach|capsicum|salt|turmeric|mustard seeds,https://recipe.example.com/Bhel_Puri_Variant_85
+86,Vada Variant 86,non-veg,31,mutton|oil|peas|cauliflower|egg|capsicum|salt|turmeric|mustard seeds,https://recipe.example.com/Vada_Variant_86
+87,Vegetable Sandwich Variant 87,vegan,23,mutton|oil|carrot|coconut|cheese|salt|turmeric|mustard seeds,https://recipe.example.com/Vegetable_Sandwich_Variant_87
+88,Mushroom Masala Variant 88,vegan,42,mutton|oil|spinach|egg|potato|chicken|coconut|turmeric|salt,https://recipe.example.com/Mushroom_Masala_Variant_88
+89,Cheese Sandwich Variant 89,vegan,52,mutton|oil|carrot|spinach|capsicum|chicken|salt|turmeric,https://recipe.example.com/Cheese_Sandwich_Variant_89
+90,Mushroom Masala Variant 90,veg,48,oil|cauliflower|coconut|carrot|spinach|capsicum|chicken|salt|turmeric,https://recipe.example.com/Mushroom_Masala_Variant_90
+91,Gobhi Paratha Variant 91,veg,51,oil|egg|paneer|cheese|chicken|salt|turmeric,https://recipe.example.com/Gobhi_Paratha_Variant_91
+92,Poha Variant 92,non-veg,17,mutton|oil|egg|cheese|salt|turmeric,https://recipe.example.com/Poha_Variant_92
+93,Poha Variant 93,vegan,42,oil|egg|chicken|coconut|turmeric|salt,https://recipe.example.com/Poha_Variant_93
+94,Masala Dosa Variant 94,veg,20,oil|peas|carrot|curd|spinach|salt|turmeric|mustard seeds,https://recipe.example.com/Masala_Dosa_Variant_94
+95,Egg Bhurji Variant 95,vegan,46,oil|cauliflower|peas|egg|capsicum|salt|turmeric,https://recipe.example.com/Egg_Bhurji_Variant_95
+96,Dal Khichdi Variant 96,non-veg,50,oil|peas|spinach|paneer|potato|chicken|salt|turmeric,https://recipe.example.com/Dal_Khichdi_Variant_96
+97,Aloo Jeera Variant 97,non-veg,27,mutton|oil|carrot|cheese|salt|turmeric,https://recipe.example.com/Aloo_Jeera_Variant_97
+98,Dal Tadka Variant 98,non-veg,18,mutton|oil|spinach|paneer|potato|mustard seeds|coconut|turmeric|salt,https://recipe.example.com/Dal_Tadka_Variant_98
+99,Pav Bhaji Variant 99,veg,16,oil|cauliflower|carrot|egg|spinach|cheese|salt|turmeric|mustard seeds,https://recipe.example.com/Pav_Bhaji_Variant_99
+100,Aloo Paratha Variant 100,vegan,50,oil|cauliflower|carrot|curd|egg|potato|salt|turmeric,https://recipe.example.com/Aloo_Paratha_Variant_100
+101,Sev Puri Variant 101,non-veg,46,mutton|oil|peas|egg|salt|turmeric|mustard seeds,https://recipe.example.com/Sev_Puri_Variant_101
+102,Dal Khichdi Variant 102,non-veg,44,mutton|oil|carrot|egg|cheese|salt|turmeric|mustard seeds,https://recipe.example.com/Dal_Khichdi_Variant_102
+103,Egg Bhurji Variant 103,vegan,17,oil|curd|paneer|cheese|capsicum|potato|chicken|salt|turmeric,https://recipe.example.com/Egg_Bhurji_Variant_103
+104,Masala Omelette Variant 104,vegan,12,mutton|oil|curd|spinach|capsicum|salt|turmeric|mustard seeds,https://recipe.example.com/Masala_Omelette_Variant_104
+105,Egg Bhurji Variant 105,veg,40,mutton|oil|cauliflower|carrot|spinach|potato|capsicum|salt|turmeric,https://recipe.example.com/Egg_Bhurji_Variant_105
+106,Mutton Curry Variant 106,vegan,47,mutton|oil|carrot|coconut|cheese|chicken|salt|turmeric|mustard seeds,https://recipe.example.com/Mutton_Curry_Variant_106
+107,Palak Paneer Variant 107,non-veg,58,mutton|oil|egg|spinach|salt|turmeric,https://recipe.example.com/Palak_Paneer_Variant_107
+108,Sambar Variant 108,non-veg,28,oil|peas|egg|coconut|turmeric|salt,https://recipe.example.com/Sambar_Variant_108
+109,Chicken Biryani Variant 109,veg,41,mutton|oil|cauliflower|peas|egg|cheese|salt|turmeric|mustard seeds,https://recipe.example.com/Chicken_Biryani_Variant_109
+110,Chicken Biryani Variant 110,non-veg,25,oil|carrot|cheese|coconut|turmeric|salt,https://recipe.example.com/Chicken_Biryani_Variant_110
+111,Tomato Soup Variant 111,vegan,38,oil|coconut|spinach|egg|potato|salt|turmeric,https://recipe.example.com/Tomato_Soup_Variant_111
+112,Vada Variant 112,veg,46,oil|cheese|capsicum|potato|salt|turmeric,https://recipe.example.com/Vada_Variant_112
+113,Sev Puri Variant 113,veg,54,oil|cauliflower|peas|egg|potato|coconut|turmeric|salt,https://recipe.example.com/Sev_Puri_Variant_113
+114,Dahi Vada Variant 114,vegan,55,mutton|oil|coconut|chicken|salt|turmeric,https://recipe.example.com/Dahi_Vada_Variant_114
+115,Sev Puri Variant 115,vegan,41,oil|peas|cauliflower|egg|cheese|salt|turmeric|mustard seeds,https://recipe.example.com/Sev_Puri_Variant_115
+116,Vegetable Sandwich Variant 116,veg,16,oil|peas|paneer|cheese|salt|turmeric,https://recipe.example.com/Vegetable_Sandwich_Variant_116
+117,Egg Bhurji Variant 117,vegan,26,mutton|oil|capsicum|coconut|turmeric|salt,https://recipe.example.com/Egg_Bhurji_Variant_117
+118,Tomato Soup Variant 118,veg,23,oil|carrot|spinach|egg|paneer|cheese|salt|turmeric,https://recipe.example.com/Tomato_Soup_Variant_118
+119,Egg Bhurji Variant 119,non-veg,16,mutton|oil|curd|cheese|potato|salt|turmeric,https://recipe.example.com/Egg_Bhurji_Variant_119
+120,Rajma Masala Variant 120,non-veg,43,oil|peas|egg|paneer|capsicum|salt|turmeric,https://recipe.example.com/Rajma_Masala_Variant_120
+121,Masala Dosa Variant 121,vegan,60,oil|peas|curd|capsicum|chicken|salt|turmeric,https://recipe.example.com/Masala_Dosa_Variant_121
+122,Dal Tadka Variant 122,vegan,47,mutton|oil|curd|egg|cheese|potato|capsicum|salt|turmeric,https://recipe.example.com/Dal_Tadka_Variant_122
+123,Chole Bhature Variant 123,veg,41,mutton|oil|curd|egg|salt|turmeric,https://recipe.example.com/Chole_Bhature_Variant_123
+124,Vegetable Sandwich Variant 124,vegan,54,oil|egg|paneer|potato|salt|turmeric|mustard seeds,https://recipe.example.com/Vegetable_Sandwich_Variant_124
+125,Egg Biryani Variant 125,vegan,44,mutton|oil|potato|coconut|turmeric|salt,https://recipe.example.com/Egg_Biryani_Variant_125
+126,Mutton Curry Variant 126,vegan,34,mutton|oil|egg|paneer|cheese|mustard seeds|coconut|turmeric|salt,https://recipe.example.com/Mutton_Curry_Variant_126
+127,Cheese Sandwich Variant 127,non-veg,26,oil|peas|curd|carrot|egg|cheese|capsicum|salt|turmeric,https://recipe.example.com/Cheese_Sandwich_Variant_127
+128,Idli Variant 128,non-veg,23,oil|cauliflower|curd|potato|chicken|salt|turmeric,https://recipe.example.com/Idli_Variant_128
+129,Sambar Variant 129,veg,48,oil|peas|carrot|paneer|chicken|salt|turmeric,https://recipe.example.com/Sambar_Variant_129
+130,Mushroom Masala Variant 130,veg,40,oil|carrot|spinach|potato|capsicum|salt|turmeric,https://recipe.example.com/Mushroom_Masala_Variant_130
+131,Paneer Tikka Variant 131,non-veg,41,oil|cauliflower|coconut|spinach|paneer|potato|chicken|salt|turmeric,https://recipe.example.com/Paneer_Tikka_Variant_131
+132,Chicken Curry Variant 132,veg,38,oil|peas|spinach|capsicum|salt|turmeric,https://recipe.example.com/Chicken_Curry_Variant_132
+133,Egg Biryani Variant 133,vegan,23,oil|cauliflower|peas|spinach|chicken|salt|turmeric|mustard seeds,https://recipe.example.com/Egg_Biryani_Variant_133
+134,Methi Thepla Variant 134,veg,50,oil|curd|cheese|coconut|turmeric|salt,https://recipe.example.com/Methi_Thepla_Variant_134
+135,Chole Bhature Variant 135,non-veg,11,oil|paneer|cheese|coconut|turmeric|salt,https://recipe.example.com/Chole_Bhature_Variant_135
+136,Mutton Curry Variant 136,non-veg,39,mutton|oil|peas|potato|salt|turmeric|mustard seeds,https://recipe.example.com/Mutton_Curry_Variant_136
+137,Poha Variant 137,veg,34,mutton|oil|cauliflower|cheese|potato|salt|turmeric,https://recipe.example.com/Poha_Variant_137
+138,Besan Cheela Variant 138,veg,36,oil|cauliflower|curd|chicken|salt|turmeric,https://recipe.example.com/Besan_Cheela_Variant_138
+139,Gobhi Paratha Variant 139,non-veg,10,mutton|oil|spinach|egg|cheese|potato|salt|turmeric|mustard seeds,https://recipe.example.com/Gobhi_Paratha_Variant_139
+140,Fish Fry Variant 140,vegan,54,oil|spinach|chicken|salt|turmeric|mustard seeds,https://recipe.example.com/Fish_Fry_Variant_140
+141,Sambar Variant 141,vegan,30,oil|cauliflower|curd|spinach|cheese|chicken|salt|turmeric,https://recipe.example.com/Sambar_Variant_141
+142,Vada Variant 142,non-veg,28,oil|peas|spinach|chicken|salt|turmeric,https://recipe.example.com/Vada_Variant_142
+143,Dal Khichdi Variant 143,vegan,27,mutton|oil|peas|coconut|carrot|paneer|cheese|salt|turmeric,https://recipe.example.com/Dal_Khichdi_Variant_143
+144,Fish Fry Variant 144,non-veg,53,oil|peas|paneer|coconut|turmeric|salt,https://recipe.example.com/Fish_Fry_Variant_144
+145,Curd Rice Variant 145,veg,59,mutton|oil|spinach|chicken|coconut|turmeric|salt,https://recipe.example.com/Curd_Rice_Variant_145
+146,Sev Puri Variant 146,non-veg,54,mutton|oil|curd|spinach|potato|mustard seeds|coconut|turmeric|salt,https://recipe.example.com/Sev_Puri_Variant_146
+147,Gobhi Paratha Variant 147,veg,10,mutton|oil|carrot|cheese|chicken|salt|turmeric|mustard seeds,https://recipe.example.com/Gobhi_Paratha_Variant_147
+148,Sooji Halwa Variant 148,non-veg,25,oil|cauliflower|curd|coconut|peas|salt|turmeric,https://recipe.example.com/Sooji_Halwa_Variant_148
+149,Mix Veg Curry Variant 149,veg,55,mutton|oil|cauliflower|cheese|capsicum|salt|turmeric,https://recipe.example.com/Mix_Veg_Curry_Variant_149
+150,Bhel Puri Variant 150,vegan,34,oil|curd|egg|cheese|potato|chicken|salt|turmeric|mustard seeds,https://recipe.example.com/Bhel_Puri_Variant_150
+151,Cheese Sandwich Variant 151,non-veg,17,mutton|oil|peas|carrot|egg|salt|turmeric,https://recipe.example.com/Cheese_Sandwich_Variant_151
+152,Tadka Maggi Variant 152,vegan,48,oil|carrot|egg|capsicum|mustard seeds|coconut|turmeric|salt,https://recipe.example.com/Tadka_Maggi_Variant_152
+153,Sev Puri Variant 153,veg,20,oil|peas|carrot|capsicum|salt|turmeric,https://recipe.example.com/Sev_Puri_Variant_153
+154,Upma Variant 154,veg,13,oil|cauliflower|carrot|coconut|egg|capsicum|salt|turmeric,https://recipe.example.com/Upma_Variant_154
+155,Egg Bhurji Variant 155,veg,46,oil|peas|coconut|curd|spinach|salt|turmeric,https://recipe.example.com/Egg_Bhurji_Variant_155
+156,Methi Thepla Variant 156,vegan,11,oil|cauliflower|coconut|egg|cheese|salt|turmeric|mustard seeds,https://recipe.example.com/Methi_Thepla_Variant_156
+157,Besan Cheela Variant 157,non-veg,32,oil|curd|carrot|spinach|paneer|cheese|salt|turmeric,https://recipe.example.com/Besan_Cheela_Variant_157
+158,Chutney Sandwich Variant 158,non-veg,43,oil|egg|spinach|coconut|turmeric|salt,https://recipe.example.com/Chutney_Sandwich_Variant_158
+159,Dal Khichdi Variant 159,non-veg,22,oil|peas|curd|egg|cheese|capsicum|chicken|salt|turmeric,https://recipe.example.com/Dal_Khichdi_Variant_159
+160,Chutney Sandwich Variant 160,vegan,60,oil|cauliflower|peas|capsicum|salt|turmeric,https://recipe.example.com/Chutney_Sandwich_Variant_160
+161,Chicken Curry Variant 161,non-veg,24,oil|peas|coconut|cheese|capsicum|salt|turmeric,https://recipe.example.com/Chicken_Curry_Variant_161
+162,Paneer Butter Masala Variant 162,vegan,45,mutton|oil|peas|paneer|salt|turmeric,https://recipe.example.com/Paneer_Butter_Masala_Variant_162
+163,Veg Pulao Variant 163,vegan,48,mutton|oil|peas|capsicum|salt|turmeric,https://recipe.example.com/Veg_Pulao_Variant_163
+164,Methi Thepla Variant 164,veg,23,oil|curd|egg|cheese|salt|turmeric|mustard seeds,https://recipe.example.com/Methi_Thepla_Variant_164
+165,Upma Variant 165,vegan,30,oil|cauliflower|paneer|potato|chicken|salt|turmeric,https://recipe.example.com/Upma_Variant_165
+166,Paneer Butter Masala Variant 166,non-veg,38,oil|cauliflower|carrot|peas|spinach|cheese|salt|turmeric,https://recipe.example.com/Paneer_Butter_Masala_Variant_166
+167,Palak Paneer Variant 167,veg,14,oil|cauliflower|paneer|cheese|capsicum|chicken|salt|turmeric,https://recipe.example.com/Palak_Paneer_Variant_167
+168,Sev Puri Variant 168,veg,36,mutton|oil|peas|curd|coconut|spinach|chicken|salt|turmeric,https://recipe.example.com/Sev_Puri_Variant_168
+169,Sheera Variant 169,vegan,50,oil|peas|carrot|coconut|cheese|chicken|salt|turmeric,https://recipe.example.com/Sheera_Variant_169
+170,Poha Variant 170,vegan,53,mutton|oil|peas|capsicum|salt|turmeric,https://recipe.example.com/Poha_Variant_170
+171,Tadka Maggi Variant 171,vegan,37,mutton|oil|spinach|paneer|potato|capsicum|coconut|turmeric|salt,https://recipe.example.com/Tadka_Maggi_Variant_171
+172,Palak Paneer Variant 172,veg,49,oil|curd|paneer|cheese|capsicum|potato|salt|turmeric,https://recipe.example.com/Palak_Paneer_Variant_172
+173,Bhel Puri Variant 173,veg,21,oil|carrot|capsicum|salt|turmeric|mustard seeds,https://recipe.example.com/Bhel_Puri_Variant_173
+174,Fish Fry Variant 174,non-veg,54,mutton|oil|peas|cauliflower|egg|chicken|salt|turmeric|mustard seeds,https://recipe.example.com/Fish_Fry_Variant_174
+175,Tomato Soup Variant 175,non-veg,15,oil|curd|coconut|egg|cheese|potato|chicken|salt|turmeric,https://recipe.example.com/Tomato_Soup_Variant_175
+176,Mix Veg Curry Variant 176,non-veg,33,oil|curd|paneer|potato|chicken|salt|turmeric,https://recipe.example.com/Mix_Veg_Curry_Variant_176
+177,Sheera Variant 177,veg,60,oil|curd|spinach|capsicum|salt|turmeric,https://recipe.example.com/Sheera_Variant_177
+178,Egg Biryani Variant 178,vegan,34,oil|curd|potato|mustard seeds|coconut|turmeric|salt,https://recipe.example.com/Egg_Biryani_Variant_178
+179,Dahi Vada Variant 179,non-veg,34,oil|cauliflower|coconut|egg|potato|capsicum|chicken|salt|turmeric,https://recipe.example.com/Dahi_Vada_Variant_179
+180,Lemon Rice Variant 180,veg,42,mutton|oil|peas|paneer|capsicum|coconut|turmeric|salt,https://recipe.example.com/Lemon_Rice_Variant_180
+181,Tomato Soup Variant 181,veg,46,mutton|oil|cauliflower|carrot|paneer|potato|chicken|salt|turmeric,https://recipe.example.com/Tomato_Soup_Variant_181
+182,Paneer Butter Masala Variant 182,vegan,37,oil|peas|curd|spinach|paneer|chicken|coconut|turmeric|salt,https://recipe.example.com/Paneer_Butter_Masala_Variant_182
+183,Dal Khichdi Variant 183,non-veg,30,oil|cauliflower|capsicum|salt|turmeric|mustard seeds,https://recipe.example.com/Dal_Khichdi_Variant_183
+184,Moong Dal Halwa Variant 184,non-veg,23,oil|curd|coconut|egg|salt|turmeric|mustard seeds,https://recipe.example.com/Moong_Dal_Halwa_Variant_184
+185,Methi Thepla Variant 185,non-veg,57,mutton|oil|peas|curd|spinach|chicken|salt|turmeric,https://recipe.example.com/Methi_Thepla_Variant_185
+186,Paneer Tikka Variant 186,non-veg,33,oil|egg|spinach|potato|salt|turmeric,https://recipe.example.com/Paneer_Tikka_Variant_186
+187,Gobhi Paratha Variant 187,non-veg,39,oil|carrot|egg|cheese|capsicum|chicken|salt|turmeric,https://recipe.example.com/Gobhi_Paratha_Variant_187
+188,Vegetable Sandwich Variant 188,vegan,18,oil|carrot|curd|salt|turmeric|mustard seeds,https://recipe.example.com/Vegetable_Sandwich_Variant_188
+189,Veg Pulao Variant 189,non-veg,49,mutton|oil|spinach|salt|turmeric|mustard seeds,https://recipe.example.com/Veg_Pulao_Variant_189
+190,Veg Pulao Variant 190,vegan,35,mutton|oil|peas|paneer|chicken|salt|turmeric,https://recipe.example.com/Veg_Pulao_Variant_190
+191,Upma Variant 191,vegan,55,mutton|oil|curd|coconut|paneer|potato|salt|turmeric,https://recipe.example.com/Upma_Variant_191
+192,Chole Bhature Variant 192,non-veg,47,oil|cauliflower|paneer|cheese|capsicum|salt|turmeric,https://recipe.example.com/Chole_Bhature_Variant_192
+193,Vegetable Sandwich Variant 193,veg,15,mutton|oil|peas|carrot|coconut|spinach|capsicum|salt|turmeric,https://recipe.example.com/Vegetable_Sandwich_Variant_193
+194,Rajma Masala Variant 194,vegan,26,mutton|oil|peas|curd|coconut|carrot|salt|turmeric,https://recipe.example.com/Rajma_Masala_Variant_194
+195,Chana Chaat Variant 195,veg,60,oil|carrot|egg|capsicum|salt|turmeric,https://recipe.example.com/Chana_Chaat_Variant_195
+196,Vegetable Sandwich Variant 196,non-veg,47,mutton|oil|cauliflower|coconut|spinach|potato|salt|turmeric|mustard seeds,https://recipe.example.com/Vegetable_Sandwich_Variant_196
+197,Mutton Curry Variant 197,vegan,12,mutton|oil|cauliflower|spinach|potato|coconut|turmeric|salt,https://recipe.example.com/Mutton_Curry_Variant_197
+198,Egg Curry Variant 198,veg,16,oil|curd|carrot|capsicum|salt|turmeric,https://recipe.example.com/Egg_Curry_Variant_198
+199,Poha Variant 199,veg,11,oil|curd|paneer|cheese|chicken|salt|turmeric,https://recipe.example.com/Poha_Variant_199
+200,Chana Chaat Variant 200,veg,34,oil|curd|cheese|potato|coconut|turmeric|salt,https://recipe.example.com/Chana_Chaat_Variant_200
